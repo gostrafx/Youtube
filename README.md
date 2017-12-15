@@ -23,7 +23,7 @@ Array
         (
             [info] => Array
                 (
-                    [title] => New York City 4K Drone / Aerial Video Featuring Queens, Brooklyn & Manhattan DJI Phantom 4
+                    [title] => New York City 4K
                     [thumbnails] =>
                 )
 
