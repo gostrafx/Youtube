@@ -58,7 +58,7 @@ class Youtube
     {
         $get_headers = get_headers($url, 1);
         $content_length = $get_headers['Content-Length'];
-        return isset($content_length) ? $content_length : '';
+        return isset($content_length) ? $content_length : null;
     }
 
     /**
